@@ -1,0 +1,734 @@
+text,label,label_id,target
+I rarely feel depressed.,neuroticism,0,1
+I always know what I am doing.,conscientiousness,1,1
+I do not put my mind on the task at hand.,conscientiousness,1,1
+I keep things tidy.,conscientiousness,1,1
+I laugh a lot.,extraversion,2,1
+I rarely get caught up in the excitement.,extraversion,2,1
+I am not a very enthusiastic person.,extraversion,2,1
+I see myself as a good leader.,extraversion,2,1
+I can talk others into doing things.,extraversion,2,0
+I do not have an assertive personality.,extraversion,2,1
+I lack the talent for influencing people.,extraversion,2,0
+I formulate ideas clearly.,openness,3,0
+I learn things slowly.,openness,3,0
+I get deeply immersed in music.,openness,3,0
+I seldom notice the emotional aspects of paintings and pictures.,openness,3,0
+I am a creature of habit.,openness,3,1
+I demand a lot from others.,agreeableness,4,0
+I get along well with others.,extraversion,2,1
+I am the life of the party.,extraversion,2,1
+I am the first to act.,extraversion,2,0
+I have no sympathy for criminals.,conscientiousness,1,0
+I enjoy feeling close to the earth.,openness,3,0
+I like to stand during the national anthem.,openness,3,1
+I make beautiful things.,openness,3,0
+I would like to live for a while in a different country.,openness,3,0
+I seldom stretch the truth.,conscientiousness,1,1
+I automatically take charge.,extraversion,2,0
+I believe in a logical answer for everything.,conscientiousness,1,1
+I cannot come up with new ideas.,openness,3,1
+I let others make the decisions.,extraversion,2,0
+I try to lead others.,extraversion,2,0
+I wait for others to lead the way.,extraversion,2,1
+I accept people as they are.,agreeableness,4,0
+I accomplish my work on time.,conscientiousness,1,1
+I act at the expense of others.,agreeableness,4,1
+I act comfortably with others.,extraversion,2,0
+I adapt easily to new situations.,neuroticism,0,0
+I am able to control my cravings.,neuroticism,0,1
+I am a very private person.,extraversion,2,0
+I am able to find out things by myself.,openness,3,1
+I am afraid to draw attention to myself.,extraversion,2,1
+I am always busy.,extraversion,2,0
+I am calm even in tense situations.,neuroticism,0,1
+I am always prepared.,conscientiousness,1,0
+I am not easily affected by my emotions.,openness,3,1
+I am careful to avoid making mistakes.,conscientiousness,1,1
+I am comfortable in unfamiliar situations.,neuroticism,0,1
+I am deeply moved by others misfortunes.,agreeableness,4,1
+I am easily distracted.,conscientiousness,1,0
+I am not easily frustrated.,neuroticism,0,1
+I am not easily stirred.,neuroticism,0,0
+I am sure of my ground.,conscientiousness,1,0
+I can stand criticism.,neuroticism,0,1
+I am easily talked into doing silly things.,agreeableness,4,0
+I am easy to satisfy.,agreeableness,4,1
+I am exacting in my work.,conscientiousness,1,1
+I do not lose my head.,neuroticism,0,0
+I am good at many things.,conscientiousness,1,1
+I easily resist temptations.,neuroticism,0,1
+I am hard to get to know.,extraversion,2,1
+I am indifferent to the feelings of others.,agreeableness,4,1
+I am interested in people.,agreeableness,4,0
+I am not afraid of providing criticism.,extraversion,2,1
+I am not as strict as I should be.,conscientiousness,1,1
+I am not bothered by disorder.,conscientiousness,1,0
+I am not bothered by messy people.,conscientiousness,1,0
+I keep my cool.,neuroticism,0,1
+I keep my emotions under control.,neuroticism,0,1
+I am not easily distracted.,conscientiousness,1,1
+I know how to cope.,neuroticism,0,1
+I let others finish what they are saying.,neuroticism,0,0
+I am not embarrassed easily.,neuroticism,0,1
+I am not interested in speculating about things.,openness,3,1
+I am not interested in theoretical discussions.,openness,3,1
+I am not really interested in others.,agreeableness,4,1
+I look at the bright side of life.,extraversion,2,1
+I am often late to work.,conscientiousness,1,1
+I am on good terms with nearly everyone.,agreeableness,4,1
+I am open about myself to others.,extraversion,2,1
+I am quick to judge others.,agreeableness,4,0
+I rarely notice my emotional reactions.,openness,3,0
+I rarely overindulge.,neuroticism,0,1
+I remain calm under pressure.,neuroticism,0,1
+I amuse myself easily.,extraversion,2,0
+I appreciate good manners.,conscientiousness,1,1
+I appreciate the viewpoints of others.,agreeableness,4,0
+I ask questions that nobody else does.,openness,3,1
+I avoid contacts with others.,extraversion,2,0
+I avoid philosophical discussions.,openness,3,0
+I behave properly.,conscientiousness,1,0
+I believe crying helps me feel better.,agreeableness,4,0
+I believe in an eye for an eye.,agreeableness,4,1
+I believe in the importance of art.,openness,3,1
+I believe only in myself.,agreeableness,4,0
+I believe that criminals should receive help rather than punishment.,openness,3,1
+I believe that I am better than others.,agreeableness,4,0
+I boast about my virtues.,agreeableness,4,0
+I bottle up my feelings.,extraversion,2,1
+I can easily link facts together.,openness,3,0
+I can easily push myself forward.,extraversion,2,1
+I can handle complex problems.,neuroticism,0,1
+I tend to feel the same every day.,neuroticism,0,0
+I can take strong measures.,extraversion,2,1
+I cannot be bothered with others needs.,agreeableness,4,1
+I cannot do without the company of others.,extraversion,2,0
+I cannot make up my mind.,neuroticism,0,1
+I cannot stand being alone.,openness,3,0
+I am attached to conventional ways.,openness,3,0
+I cannot stand confrontations.,agreeableness,4,0
+I carry out my plans.,conscientiousness,1,0
+I catch on to things quickly.,openness,3,1
+I challenge others points of view.,agreeableness,4,1
+I am easily confused.,neuroticism,0,1
+I cherish mementos.,agreeableness,4,1
+I come straight to the point.,conscientiousness,1,1
+I come up with a solution right away.,extraversion,2,0
+I comment loudly about others.,agreeableness,4,1
+I complete tasks successfully.,conscientiousness,1,0
+I contradict others.,agreeableness,4,1
+I criticize others shortcomings.,agreeableness,4,1
+I am easily disturbed.,neuroticism,0,1
+I am easily excited.,neuroticism,0,0
+I dare to say anything.,extraversion,2,1
+I am easily frightened.,neuroticism,0,1
+I am easily hurt.,neuroticism,0,0
+I demand perfection in others.,conscientiousness,1,1
+I demand quality.,conscientiousness,1,1
+I demand to be the center of interest.,extraversion,2,1
+I detect mistakes.,conscientiousness,1,1
+I dislike learning.,openness,3,0
+I am easily moved to tears.,agreeableness,4,1
+I dislike neighbors living too close.,extraversion,2,0
+I dislike routine.,conscientiousness,1,0
+I dislike talking about myself.,extraversion,2,0
+I disregard rules.,conscientiousness,1,1
+I do a lot in my spare time.,extraversion,2,1
+I do improper things.,conscientiousness,1,1
+I do most of the talking.,extraversion,2,0
+I do not enjoy watching dance performances.,openness,3,0
+I do not like art.,openness,3,1
+I do not like concerts.,openness,3,1
+I do not like poetry.,openness,3,0
+I do not plan ahead.,conscientiousness,1,0
+I do the opposite of what is asked.,conscientiousness,1,1
+I do things at my own pace.,openness,3,1
+I do things at the last minute.,conscientiousness,1,0
+I am easily offended.,neuroticism,0,1
+I do things in a logical order.,conscientiousness,1,0
+I do not call people just to talk.,agreeableness,4,0
+I do not care about rules.,conscientiousness,1,0
+I do not fall for sob stories.,agreeableness,4,1
+I do not get excited about things.,agreeableness,4,0
+I do not have a soft side.,agreeableness,4,0
+I am filled with doubts about things.,neuroticism,0,0
+I do not like to draw attention to myself.,extraversion,2,0
+I do not like to ponder over things.,openness,3,0
+I am guided by my moods.,neuroticism,0,0
+I do not mind being the center of attention.,extraversion,2,0
+I do not mind eating alone.,extraversion,2,1
+I do not pay attention.,conscientiousness,1,1
+I do not see things through.,conscientiousness,1,1
+I do not think laws apply to me.,conscientiousness,1,0
+I do not understand things.,conscientiousness,1,0
+I am not sure where my life is going.,neuroticism,0,1
+I enjoy being part of a loud crowd.,extraversion,2,0
+I enjoy being reckless.,extraversion,2,0
+I enjoy contemplation.,openness,3,1
+I enjoy crude jokes.,agreeableness,4,0
+I enjoy examining myself and my life.,openness,3,0
+I enjoy my privacy.,extraversion,2,1
+I enjoy silence.,extraversion,2,1
+I enjoy spending time by myself.,extraversion,2,0
+I enjoy the beauty of nature.,openness,3,0
+I enjoy thinking about things.,openness,3,0
+I enjoy wild flights of fantasy.,openness,3,0
+I excel in what I do.,conscientiousness,1,0
+I expect dedicated work from others.,conscientiousness,1,1
+I am often in a bad mood.,neuroticism,0,0
+I am swayed by my emotions.,neuroticism,0,0
+I express childlike joy.,extraversion,2,0
+I barge in on conversations.,neuroticism,0,1
+I feel little concern for others.,agreeableness,4,0
+I blurt out whatever comes into my mind.,neuroticism,0,1
+I find it hard to forgive others.,agreeableness,4,1
+I finish what I start.,conscientiousness,1,0
+I follow a schedule.,conscientiousness,1,0
+I follow directions.,agreeableness,4,0
+I follow through with my plans.,conscientiousness,1,0
+I frequently forget to do things.,conscientiousness,1,1
+I get a head start on others.,conscientiousness,1,0
+I burst into tears.,neuroticism,0,0
+I can be stirred up easily.,neuroticism,0,1
+I cannot concentrate.,neuroticism,0,1
+I change my mood a lot.,neuroticism,0,1
+I cry during movies.,neuroticism,0,0
+I get to work at once.,conscientiousness,1,0
+I cry easily.,agreeableness,4,0
+I give up easily.,conscientiousness,1,1
+I go out of my way for others.,agreeableness,4,0
+I handle tasks smoothly.,conscientiousness,1,0
+I hate to seem pushy.,agreeableness,4,0
+I have a good word for everyone.,agreeableness,4,0
+I have a lot of fun.,extraversion,2,1
+I have a point of view all my own.,openness,3,1
+I have a poor vocabulary.,openness,3,0
+I demand obedience.,neuroticism,0,0
+I have difficulty starting tasks.,conscientiousness,1,1
+I impose my will on others.,agreeableness,4,0
+I inquire about others well being.,agreeableness,4,0
+I joke around a lot.,extraversion,2,1
+I keep a sharp eye on others work.,conscientiousness,1,1
+I keep my checkbook balanced.,conscientiousness,1,0
+I do things I later regret.,neuroticism,0,0
+I keep others at a distance.,extraversion,2,0
+I know how to apply my knowledge.,openness,3,1
+I know how to captivate people.,extraversion,2,0
+I know how to comfort others.,agreeableness,4,0
+I feel crushed by setbacks.,neuroticism,0,1
+I know no limits.,extraversion,2,0
+I know what I want.,extraversion,2,1
+I laugh at the slightest provocation.,conscientiousness,1,0
+I laugh my way through life.,extraversion,2,1
+I learn quickly.,openness,3,0
+I leave my belongings around.,conscientiousness,1,0
+I leave my work undone.,conscientiousness,1,0
+I let my attention wander off.,conscientiousness,1,0
+I let myself be pushed around.,extraversion,2,1
+I let myself go.,extraversion,2,0
+I let people pull my leg.,conscientiousness,1,1
+I like harmony in my life.,agreeableness,4,0
+I like music.,openness,3,0
+I like to act on a whim.,conscientiousness,1,1
+I like to amuse others.,extraversion,2,0
+I like to be alone.,extraversion,2,0
+I like to be of service to others.,agreeableness,4,1
+I like to do things for others.,agreeableness,4,0
+I like to plan ahead.,conscientiousness,1,0
+I like to please others.,agreeableness,4,1
+I listen to my brain rather than my heart.,agreeableness,4,1
+I listen to my conscience.,agreeableness,4,1
+I listen to my heart rather than my brain.,agreeableness,4,1
+I live in a world of my own.,openness,3,1
+I get caught up in my problems.,neuroticism,0,0
+I look at the facts.,openness,3,0
+I look down on any weakness.,agreeableness,4,1
+I look for hidden meanings in things.,openness,3,0
+I get furious.,neuroticism,0,0
+I love a good fight.,agreeableness,4,1
+I love beautiful things.,openness,3,1
+I love children movies.,openness,3,0
+I love flowers.,openness,3,0
+I love large parties.,extraversion,2,1
+I get out of control.,neuroticism,0,1
+I love to read challenging material.,openness,3,0
+I make a lot of noise.,extraversion,2,1
+I make a mess of things.,conscientiousness,1,0
+I make demands on others.,agreeableness,4,0
+I make enemies.,agreeableness,4,0
+I make others feel good.,agreeableness,4,1
+I make people feel welcome.,agreeableness,4,1
+I make rash decisions.,conscientiousness,1,1
+I make well-considered decisions.,conscientiousness,1,1
+I mess things up.,conscientiousness,1,0
+I need a creative outlet.,openness,3,1
+I need a lot of time to do things.,extraversion,2,0
+I need things explained only once.,conscientiousness,1,0
+I need to understand my motives.,openness,3,1
+I never spend more than I can afford.,conscientiousness,1,1
+I never splurge.,conscientiousness,1,0
+I never stop talking.,extraversion,2,0
+I often feel uncomfortable around others.,extraversion,2,0
+I often make last-minute plans.,conscientiousness,1,1
+I only feel comfortable with friends.,neuroticism,0,1
+I only talk about my own interests.,agreeableness,4,1
+I oppose authority.,conscientiousness,1,0
+I overestimate my achievements.,agreeableness,4,1
+I am sensitive to the needs of others.,agreeableness,4,1
+I get upset easily.,neuroticism,0,1
+I play tricks on others.,agreeableness,4,0
+I prefer to be alone.,extraversion,2,0
+I prefer to deal with strangers in a formal manner.,extraversion,2,0
+I prefer variety to routine.,openness,3,0
+I pretend to be concerned for others.,agreeableness,4,1
+I purchase only practical things.,conscientiousness,1,1
+I put little time and effort into my work.,conscientiousness,1,0
+I quickly get the idea of things.,openness,3,0
+I quickly think up new ideas.,openness,3,0
+I radiate joy.,extraversion,2,0
+I have crying fits.,neuroticism,0,0
+I feel sympathy for those who are worse off than myself.,agreeableness,4,1
+I reason logically.,conscientiousness,1,0
+I reassure others.,agreeableness,4,0
+I like to gossip.,neuroticism,0,1
+I remember my friends birthdays.,agreeableness,4,1
+I respect others feelings.,agreeableness,4,1
+I respect others.,agreeableness,4,0
+I respect the privacy of others.,agreeableness,4,1
+I retreat from others.,extraversion,2,0
+I return borrowed items.,conscientiousness,1,1
+I reveal little about myself.,extraversion,2,1
+I say inappropriate things.,conscientiousness,1,0
+I scheme against others.,agreeableness,4,0
+I see beauty in things that others might not notice.,openness,3,0
+I see that rules are observed.,conscientiousness,1,1
+I seek conflict.,agreeableness,4,1
+I seek explanations of things.,openness,3,0
+I seek quiet.,extraversion,2,1
+I seldom daydream.,openness,3,0
+I lose my temper.,neuroticism,0,0
+I love order and regularity.,conscientiousness,1,1
+I seldom get lost in thought.,openness,3,1
+I seldom joke around.,extraversion,2,0
+I seldom notice details.,conscientiousness,1,1
+I often make a fuss.,neuroticism,0,1
+I sense others wishes.,agreeableness,4,1
+I use others for my own ends.,agreeableness,4,0
+I shirk my duties.,conscientiousness,1,1
+I show a mastery of language.,openness,3,1
+I show my feelings.,agreeableness,4,1
+I show my gratitude.,agreeableness,4,0
+I skip difficult words while reading.,openness,3,0
+I react intensely.,neuroticism,0,0
+I speak loudly.,extraversion,2,0
+I cheat to get ahead.,agreeableness,4,1
+I start conversations.,extraversion,2,1
+I stick to the rules.,conscientiousness,1,0
+I stick up for myself.,extraversion,2,0
+I suffer from others sorrows.,agreeableness,4,1
+I sympathize with the homeless.,agreeableness,4,1
+I take good care of my belongings.,conscientiousness,1,0
+I trust what people say.,agreeableness,4,0
+I take no time for others.,agreeableness,4,0
+I shoot my mouth off.,neuroticism,0,1
+I take others interests into account.,agreeableness,4,1
+I take tasks too lightly.,conscientiousness,1,0
+I snap at people.,neuroticism,0,0
+I take time out for others.,agreeableness,4,1
+I take offense easily.,neuroticism,0,0
+I talk too much.,extraversion,2,0
+I tell tall stories about myself.,agreeableness,4,0
+I tend to analyze things.,openness,3,0
+I tend to dislike impulsive people.,conscientiousness,1,1
+I tend to dislike soft-hearted people.,agreeableness,4,0
+I talk even when I know I should not.,neuroticism,0,0
+I tend to think about something for hours.,openness,3,0
+I think ahead.,conscientiousness,1,1
+I think deeply about things.,openness,3,0
+I believe that others have good intentions.,agreeableness,4,0
+I think too highly of myself.,agreeableness,4,1
+I treat people as inferiors.,agreeableness,4,0
+I trust others.,agreeableness,4,0
+I try not to think about the needy.,agreeableness,4,0
+I try to outdo others.,agreeableness,4,0
+I feel that most people cannot be trusted.,agreeableness,4,1
+I try to stay in touch with myself.,openness,3,1
+I turn my back on others.,agreeableness,4,0
+I turn plans into actions.,conscientiousness,1,1
+I use difficult words.,openness,3,1
+I value cooperation over competition.,agreeableness,4,0
+I wait for my turn.,extraversion,2,0
+I believe that people are basically moral.,agreeableness,4,0
+I want everything to add up perfectly.,conscientiousness,1,1
+I want everything to be just right.,conscientiousness,1,1
+I want things done my way.,neuroticism,0,0
+I want things to proceed according to plan.,conscientiousness,1,1
+I warm up quickly to others.,extraversion,2,1
+I waste my time.,conscientiousness,1,1
+I wear my heart on my sleeve.,neuroticism,0,0
+I will do anything for others.,agreeableness,4,0
+I work according to a routine.,conscientiousness,1,1
+I work on improving myself.,conscientiousness,1,0
+I would never cheat on my taxes.,conscientiousness,1,0
+I would not harm a fly.,agreeableness,4,0
+I find it difficult to get down to work.,conscientiousness,1,1
+I neglect my duties.,conscientiousness,1,1
+I need a push to get started.,conscientiousness,1,1
+I leave a mess in my room.,conscientiousness,1,1
+I often forget to put things back in their proper place.,conscientiousness,1,1
+I set high standards for myself and others.,conscientiousness,1,0
+I continue until everything is perfect.,conscientiousness,1,1
+I can handle a lot of information.,openness,3,0
+I think quickly.,openness,3,1
+I am full of ideas.,openness,3,0
+I love to think up new ways of doing things.,openness,3,0
+I rebel against authority.,openness,3,0
+I love to reflect on things.,openness,3,1
+I spend time reflecting on things.,openness,3,1
+I try to understand myself.,openness,3,1
+I enjoy being thought of as a normal mainstream person.,openness,3,0
+I rarely get irritated.,neuroticism,0,0
+I seldom get mad.,neuroticism,0,0
+I am not easily annoyed.,neuroticism,0,1
+I dislike myself.,neuroticism,0,0
+I quickly lose interest in the tasks I start.,conscientiousness,1,1
+I rarely cry during sad movies.,neuroticism,0,1
+I panic easily.,neuroticism,0,1
+I suspect that my facial expressions give me away when I feel sad.,neuroticism,0,0
+I fear for the worst.,neuroticism,0,1
+I prefer to just let things happen.,conscientiousness,1,0
+I experience very few emotional highs and lows.,neuroticism,0,0
+I get overwhelmed by emotions.,neuroticism,0,0
+I experience my emotions intensely.,openness,3,1
+I usually like to spend my free time with people.,extraversion,2,0
+I do not like crowded events.,extraversion,2,0
+I want to be left alone.,extraversion,2,0
+I make myself the center of attention.,extraversion,2,1
+I like to attract attention.,extraversion,2,1
+I dislike being the center of attention.,extraversion,2,0
+I find it difficult to approach others.,extraversion,2,0
+I am annoyed by others mistakes.,agreeableness,4,0
+I laugh aloud.,extraversion,2,0
+I am good at making impromptu speeches.,extraversion,2,1
+I am inclined to forgive others.,agreeableness,4,0
+I express myself easily.,extraversion,2,0
+I am open to change.,openness,3,0
+I dislike the unknown.,openness,3,1
+I do not like to travel.,openness,3,0
+I find political discussions interesting.,openness,3,1
+I have a natural talent for influencing people.,extraversion,2,0
+I like to read.,openness,3,0
+I love to learn new things.,openness,3,0
+I spend a lot of time reading.,openness,3,1
+I try to do too difficult things.,openness,3,0
+I try to forgive and forget.,agreeableness,4,0
+I want to increase my knowledge.,openness,3,0
+I am someone who is outgoing sociable.,extraversion,2,1
+I am someone who is compassionate has a soft heart.,agreeableness,4,0
+I am someone who tends to be disorganized.,conscientiousness,1,0
+I am someone who is relaxed handles stress well.,neuroticism,0,1
+I am someone who has an assertive personality.,extraversion,2,1
+I am someone who is respectful treats others with respect.,agreeableness,4,1
+I am someone who tends to be lazy.,conscientiousness,1,0
+I am someone who stays optimistic after experiencing a setback.,neuroticism,0,1
+I am someone who is curious about many different things.,openness,3,0
+I am someone who rarely feels excited or eager.,extraversion,2,1
+I am someone who tends to find fault with others.,agreeableness,4,0
+I am someone who is dependable steady.,conscientiousness,1,1
+I am someone who is moody has up and down mood swings.,neuroticism,0,1
+I am someone who is inventive finds clever ways to do things.,openness,3,1
+I am someone who tends to be quiet.,extraversion,2,0
+I am someone who feels little sympathy for others.,agreeableness,4,1
+I am someone who is systematic likes to keep things in order.,conscientiousness,1,1
+I am someone who can be tense.,neuroticism,0,0
+I am someone who is dominant acts as a leader.,extraversion,2,0
+I am someone who starts arguments with others.,agreeableness,4,0
+I am someone who has difficulty getting started on tasks.,conscientiousness,1,1
+I am someone who feels secure comfortable with self.,neuroticism,0,1
+I am someone who avoids intellectual philosophical discussions.,openness,3,1
+I am someone who is less active than other people.,extraversion,2,0
+I am someone who can be somewhat careless.,conscientiousness,1,0
+I am someone who is emotionally stable not easily upset.,neuroticism,0,0
+I am someone who has little creativity.,openness,3,0
+I am someone who is sometimes shy introverted.,extraversion,2,0
+I am someone who is helpful and unselfish with others.,agreeableness,4,1
+I am someone who keeps things neat and tidy.,conscientiousness,1,0
+I am someone who values art and beauty.,openness,3,0
+I am someone who finds it hard to influence people.,extraversion,2,1
+I am someone who is sometimes rude to others.,agreeableness,4,0
+I am someone who is efficient gets things done.,conscientiousness,1,0
+I am someone who often feels sad.,neuroticism,0,1
+I am someone who is complex a deep thinker.,openness,3,0
+I am someone who is full of energy.,extraversion,2,0
+I am someone who is suspicious of others intentions.,agreeableness,4,1
+I am someone who is reliable can always be counted on.,conscientiousness,1,0
+I am someone who keeps their emotions under control.,neuroticism,0,0
+I am someone who has difficulty imagining things.,openness,3,0
+I am someone who is talkative.,extraversion,2,0
+I am someone who can be cold and uncaring.,agreeableness,4,0
+I am someone who leaves a mess does not clean up.,conscientiousness,1,1
+I am someone who rarely feels anxious or afraid.,neuroticism,0,0
+I am someone who thinks poetry and plays are boring.,openness,3,0
+I am someone who is polite courteous to others.,agreeableness,4,0
+I am someone who has little interest in abstract ideas.,openness,3,0
+I am someone who shows a lot of enthusiasm.,extraversion,2,1
+I am someone who assumes the best about people.,agreeableness,4,0
+I am someone who is temperamental gets emotional easily.,neuroticism,0,0
+I begin to panic when there is danger.,neuroticism,0,0
+I would fear walking in a high-crime part of a city.,neuroticism,0,1
+I tremble in dangerous situations.,neuroticism,0,1
+I would never go riding down a stretch of rapids in a canoe.,neuroticism,0,0
+I face danger confidently.,neuroticism,0,0
+I would be good at rescuing people from a burning building.,neuroticism,0,1
+I am willing to take risks.,neuroticism,0,0
+I often worry about things that turn out to be unimportant.,neuroticism,0,0
+I get upset by unpleasant thoughts that come into my mind.,neuroticism,0,1
+I rarely worry.,neuroticism,0,1
+I let myself be influenced by others.,neuroticism,0,1
+I immediately feel sad when hearing of an unhappy event.,neuroticism,0,1
+I seldom feel weepy while reading a sad part of a story.,neuroticism,0,1
+I am seldom bothered by the apparent suffering of strangers.,neuroticism,0,1
+I talk a lot.,extraversion,2,0
+I tell people about it when I am irritated.,extraversion,2,1
+I have an intense boisterous laugh.,extraversion,2,1
+I say little.,extraversion,2,1
+I have leadership abilities.,extraversion,2,0
+I love to chat.,extraversion,2,0
+I seem to derive less enjoyment from interacting with people than others do.,extraversion,2,1
+I rarely enjoy being with people.,extraversion,2,0
+I would not enjoy a job that involves a lot of social interaction.,extraversion,2,1
+I maintain high energy throughout the day.,extraversion,2,0
+I have great stamina.,extraversion,2,0
+I smile a lot.,extraversion,2,0
+I feel that I have a lot of inner strength.,extraversion,2,0
+I tire out quickly.,extraversion,2,0
+I love my enemies.,agreeableness,4,0
+I am nice to people I should be angry at.,agreeableness,4,0
+I get even with others.,agreeableness,4,1
+I become frustrated and angry with people when they do not live up to my expectations.,agreeableness,4,1
+I speak ill of others.,agreeableness,4,1
+I adjust easily.,agreeableness,4,0
+When interacting with a group of people I am often bothered by at least one of them.,agreeableness,4,0
+I react strongly to criticism.,agreeableness,4,1
+I get upset if others change the way that I have arranged things.,agreeableness,4,0
+I am hard to convince.,agreeableness,4,1
+I am hard to reason with.,agreeableness,4,1
+I find that it takes a lot to make me feel angry at someone.,agreeableness,4,0
+I rarely feel angry with people.,agreeableness,4,0
+I am usually a patient person.,agreeableness,4,1
+I am easily annoyed.,agreeableness,4,1
+I do not finish the things that I start.,conscientiousness,1,1
+I push myself very hard to succeed.,conscientiousness,1,1
+I get started quickly on doing a job.,conscientiousness,1,1
+I stop when work becomes too difficult.,conscientiousness,1,0
+I do too little work.,conscientiousness,1,1
+I act impulsively when something is bothering me.,conscientiousness,1,0
+I make careless mistakes.,conscientiousness,1,1
+I make a fool of myself.,conscientiousness,1,1
+I have read the great literary classics.,openness,3,0
+I am interested in science.,openness,3,0
+I would love to explore strange places.,openness,3,1
+I enjoy intellectual games.,openness,3,1
+I do not know much about history.,openness,3,0
+I do not bother worrying about political and social problems.,openness,3,0
+I come up with something new.,openness,3,0
+I have trouble guessing how others will react.,openness,3,1
+I seldom experience sudden intuitive insights.,openness,3,1
+I am considered to be kind of eccentric.,openness,3,0
+I know that my ideas sometimes surprise people.,openness,3,0
+I do things that others find strange.,openness,3,1
+I like to be viewed as proper and conventional.,openness,3,1
+I like to be thought of as a normal kind of person.,openness,3,0
+I act wild and crazy.,extraversion,2,0
+I am concerned about others.,agreeableness,4,1
+I am never at a loss for words.,extraversion,2,0
+I am not easily bothered by things.,neuroticism,0,0
+I am not interested in abstract ideas.,openness,3,1
+I am not interested in other people problems.,agreeableness,4,1
+I am often down in the dumps.,neuroticism,0,0
+I am open about my feelings.,extraversion,2,1
+I am quick to understand things.,openness,3,1
+I am relaxed most of the time.,neuroticism,0,1
+I avoid difficult reading material.,openness,3,1
+I believe that laws should be strictly enforced.,conscientiousness,1,1
+I break rules.,conscientiousness,1,0
+I carry the conversation to a higher level.,openness,3,0
+I do crazy things.,conscientiousness,1,0
+I do things by the book.,conscientiousness,1,1
+I do things in a halfway manner.,conscientiousness,1,0
+I do not talk a lot.,extraversion,2,0
+I feel comfortable with myself.,neuroticism,0,0
+I feel desperate.,neuroticism,0,1
+I feel others emotions.,agreeableness,4,0
+I find fault with everything.,agreeableness,4,0
+I get stressed out easily.,neuroticism,0,0
+I have a soft heart.,agreeableness,4,1
+I have difficulty expressing my feelings.,extraversion,2,0
+I have excellent ideas.,openness,3,0
+I have frequent mood swings.,neuroticism,0,0
+I hold back my opinions.,extraversion,2,1
+I insult people.,agreeableness,4,1
+I keep in the background.,extraversion,2,0
+I like order.,conscientiousness,1,0
+I make friends easily.,extraversion,2,0
+I make people feel at ease.,agreeableness,4,0
+I often feel blue.,neuroticism,0,1
+I pay attention to details.,conscientiousness,1,0
+I put people under pressure.,agreeableness,4,1
+I seldom feel blue.,neuroticism,0,0
+I speak softly.,extraversion,2,0
+I sympathize with others feelings.,agreeableness,4,0
+I take advantage of others.,agreeableness,4,0
+I take charge.,extraversion,2,0
+I take things as they come.,neuroticism,0,0
+I try to avoid complex people.,openness,3,1
+I use my brain.,openness,3,1
+I am very pleased with myself.,neuroticism,0,1
+Others perceive that I believe in the importance of art.,openness,3,1
+Others perceive that I act before thinking.,conscientiousness,1,1
+Others perceive that I believe people have bad intentions.,agreeableness,4,1
+Others perceive that I cannot handle a lot of information.,openness,3,0
+Others perceive that I disregard rules to get ahead.,conscientiousness,1,0
+Others perceive that I do not have original ideas and I am not inventive.,openness,3,0
+Others perceive that I do not joke around.,extraversion,2,0
+Others perceive that I do not stop to contemplate my life.,openness,3,1
+Others perceive that I enjoy being with people.,extraversion,2,0
+Others perceive that I get irritated easily.,neuroticism,0,0
+Others perceive that I hang around doing nothing.,conscientiousness,1,0
+Others perceive that I have frequent mood changes.,neuroticism,0,0
+Others perceive that I am a perfectionist.,conscientiousness,1,0
+Others perceive that I am assertive and I take charge.,extraversion,2,1
+Others perceive that I am carefree.,neuroticism,0,0
+Others perceive that I am composed and not easily annoyed.,neuroticism,0,1
+Others perceive that I am disinterested in abstract ideas.,openness,3,1
+Others perceive that I am disorganized.,conscientiousness,1,1
+Others perceive that I am emotionally stable.,neuroticism,0,1
+Others perceive that I am good with people.,extraversion,2,1
+Others perceive that I am hard to read.,extraversion,2,0
+Others perceive that I am indifferent to others feelings.,agreeableness,4,0
+Others perceive that I am moody and easily upset.,neuroticism,0,1
+Others perceive that I am not a typical person.,openness,3,0
+Others perceive that I am not easily bothered.,neuroticism,0,0
+Others perceive that I am open with my feelings.,extraversion,2,1
+Others perceive that I am socially awkward.,extraversion,2,1
+Others perceive that I am trusting of others.,agreeableness,4,1
+Others perceive that I keep others at a distance.,extraversion,2,1
+Others perceive that I like a brisk and busy lifestyle.,extraversion,2,1
+Others perceive that I like being around people.,extraversion,2,1
+Others perceive that I like to be the center of attention.,extraversion,2,1
+Others perceive that I like things to be just right.,conscientiousness,1,1
+Others perceive that I like to laugh.,extraversion,2,1
+Others perceive that I make careful decisions.,conscientiousness,1,0
+Others perceive that I neglect my work duties.,conscientiousness,1,0
+Others perceive that I often feel hopeless.,neuroticism,0,1
+Others perceive that I prefer to be alone.,extraversion,2,1
+Others perceive that I prefer to let others lead.,extraversion,2,0
+Others perceive that I roll with the punches.,openness,3,1
+Others perceive that I seek danger.,extraversion,2,1
+Others perceive that I stick to the rules.,conscientiousness,1,0
+Others perceive that I succumb to temptation.,conscientiousness,1,0
+Others perceive that I tell people when I am frustrated.,agreeableness,4,0
+Others perceive that I try to fit in.,agreeableness,4,0
+Others perceive that I understand things quickly.,openness,3,1
+Others perceive that I work hard.,conscientiousness,1,0
+Others perceive that I worry a lot.,neuroticism,0,0
+I am skilled in handling social situations.,extraversion,2,0
+I would describe my experiences as somewhat dull.,extraversion,2,1
+I do not have a good imagination.,openness,3,0
+I feel at ease with people.,extraversion,2,0
+I enjoy hearing new ideas.,openness,3,1
+I can say things beautifully.,openness,3,1
+I get irritated easily.,neuroticism,0,1
+I grumble about things.,neuroticism,0,0
+I get excited by new ideas.,openness,3,1
+I have a vivid imagination.,openness,3,0
+I tend to vote for conservative political candidates.,openness,3,1
+I love to help others.,agreeableness,4,1
+I believe that too much tax money goes to support artists.,openness,3,1
+I have a sharp tongue.,agreeableness,4,0
+I cut others to pieces.,agreeableness,4,0
+I suspect hidden motives in others.,agreeableness,4,0
+I get back at others.,agreeableness,4,0
+I hold a grudge.,agreeableness,4,0
+I do just enough work to get by.,conscientiousness,1,0
+I leave things unfinished.,conscientiousness,1,0
+I am not easily disturbed by events.,neuroticism,0,1
+I do not worry about things that have already happened.,neuroticism,0,0
+I have a low opinion of myself.,neuroticism,0,1
+I feel that my life lacks direction.,neuroticism,0,1
+I am easily intimidated.,neuroticism,0,1
+I am afraid that I will do the wrong thing.,neuroticism,0,1
+I stumble over my words.,neuroticism,0,1
+I am not bothered by difficult social situations.,neuroticism,0,0
+I am able to stand up for myself.,neuroticism,0,1
+I often eat too much.,neuroticism,0,1
+I go on binges.,neuroticism,0,0
+I love to eat.,neuroticism,0,1
+I feel that I am unable to deal with things.,neuroticism,0,0
+I readily overcome setbacks.,neuroticism,0,0
+I enjoy being part of a group.,extraversion,2,0
+I involve others in what I am doing.,extraversion,2,1
+I love surprise parties.,extraversion,2,0
+I avoid crowds.,extraversion,2,1
+I seek to influence others.,extraversion,2,0
+I take control of things.,extraversion,2,1
+I am always on the go.,extraversion,2,1
+I can manage many things at the same time.,extraversion,2,1
+I react quickly.,extraversion,2,1
+I like to take it easy.,extraversion,2,1
+I like to take my time.,extraversion,2,1
+I let things proceed at their own pace.,extraversion,2,1
+I react slowly.,extraversion,2,0
+I love excitement.,extraversion,2,0
+I seek adventure.,extraversion,2,0
+I love action.,extraversion,2,1
+I am willing to try anything once.,extraversion,2,0
+I would never go hang gliding or bungee jumping.,extraversion,2,1
+I dislike loud music.,extraversion,2,1
+I amuse my friends.,extraversion,2,1
+I am not easily amused.,extraversion,2,0
+I love to daydream.,openness,3,1
+I indulge in my fantasies.,openness,3,1
+I am passionate about causes.,openness,3,0
+I like to visit new places.,openness,3,0
+I am interested in many things.,openness,3,1
+I like to begin new things.,openness,3,0
+I prefer to stick with things that I know.,openness,3,0
+I dislike changes.,openness,3,1
+I do not like the idea of change.,openness,3,1
+I dislike new foods.,openness,3,0
+I believe in one true religion.,openness,3,0
+I believe that we coddle criminals too much.,openness,3,1
+I believe that we should be tough on crime.,openness,3,1
+I think that all will be well.,agreeableness,4,1
+I distrust people.,agreeableness,4,0
+I am wary of others.,agreeableness,4,1
+I believe that people are essentially evil.,agreeableness,4,1
+I use flattery to get ahead.,agreeableness,4,1
+I obstruct others plans.,agreeableness,4,1
+I look down on others.,agreeableness,4,0
+I make people feel uncomfortable.,agreeableness,4,1
+I yell at people.,agreeableness,4,0
+I seldom toot my own horn.,agreeableness,4,0
+I have a high opinion of myself.,agreeableness,4,1
+I come up with good solutions.,conscientiousness,1,0
+I know how to get things done.,conscientiousness,1,0
+I misjudge situations.,conscientiousness,1,0
+I have little to contribute.,conscientiousness,1,0
+I do not see the consequences of things.,conscientiousness,1,1
+I keep my promises.,conscientiousness,1,0
+I pay my bills on time.,conscientiousness,1,1
+I tell the truth.,conscientiousness,1,1
+I break my promises.,conscientiousness,1,0
+I get others to do my duties.,conscientiousness,1,1
+I misrepresent the facts.,conscientiousness,1,0
+I go straight for the goal.,conscientiousness,1,1
+I plunge into tasks with all my heart.,conscientiousness,1,0
+I avoid mistakes.,conscientiousness,1,0
+I choose my words with care.,conscientiousness,1,1
+I stick to my chosen path.,conscientiousness,1,0
+I rush into things.,conscientiousness,1,1
+I get easily agitated.,neuroticism,0,0
+I am easily discouraged.,neuroticism,0,0
+I am afraid of many things.,neuroticism,0,0

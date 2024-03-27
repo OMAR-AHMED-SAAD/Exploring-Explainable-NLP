@@ -159,7 +159,6 @@ class ConceptTransformer(nn.Module):
             out = out + out_n.squeeze(1)  # squeeze token dimension
 
         return out, unsup_concept_attn, concept_attn
-
     
 "-------------------------------Model: `ConceptEnterpreneurClassifier`------------------------------------"
 
@@ -172,7 +171,6 @@ class EnterpreneurConceptTransformer(nn.Module):
     def __init__(self, n_classes, n_unsup_concepts=0, n_concepts=5,PRE_TRAINED_MODEL_NAME='bert-base-cased'):
         super(EnterpreneurConceptTransformer, self).__init__()
         self.bert = transformers.BertModel.from_pretrained(PRE_TRAINED_MODEL_NAME)
-        self.drop = nn.Dropout(p=0.3)
         self.concept_transformer = ConceptTransformer(
             dim=self.bert.config.hidden_size,
             num_classes=n_classes,
