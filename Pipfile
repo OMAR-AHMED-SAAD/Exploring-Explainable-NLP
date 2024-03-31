@@ -18,6 +18,7 @@ matplotlib = "*"
 contractions = "*"
 nltk = "*"
 datasets = "*"
+shap = "*"
 
 [dev-packages]
 
