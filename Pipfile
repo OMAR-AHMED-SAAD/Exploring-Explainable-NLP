@@ -14,6 +14,10 @@ jupyter = "*"
 ipywidgets = "*"
 torchmetrics = "*"
 scikit-learn = "*"
+matplotlib = "*"
+contractions = "*"
+nltk = "*"
+datasets = "*"
 
 [dev-packages]
 
