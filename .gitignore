@@ -2,6 +2,7 @@
 **/ckpts/**
 **/checkpoints/**
 **/logs/**
+**/shap_values/**
 /data/** 
 
 ### macOS ###
