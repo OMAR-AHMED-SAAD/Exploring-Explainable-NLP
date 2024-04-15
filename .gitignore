@@ -4,6 +4,7 @@
 **/logs/**
 **/shap_values/**
 /data/** 
+*.pkl
 
 ### macOS ###
 *.DS_Store

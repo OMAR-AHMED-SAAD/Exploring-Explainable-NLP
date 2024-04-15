@@ -19,6 +19,8 @@ contractions = "*"
 nltk = "*"
 datasets = "*"
 shap = "*"
+joblib = "*"
+flask = "*"
 
 [dev-packages]
 
