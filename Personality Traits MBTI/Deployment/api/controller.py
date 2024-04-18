@@ -157,3 +157,12 @@ def explain(input, aspect):
     print(shap_values_json)
 
     return shap_values_json
+
+import matplotlib.pyplot as plt
+from IPython.core.display import HTML
+def plot(input, aspect):
+    shap_values = model.explain([input], aspect)
+    HTML(shap.plots.text(shap_values, display=False))
+    with open('./templates/plot.html', 'w') as file:
+        file.write(shap.plots.text(shap_values, display=False))
+  
