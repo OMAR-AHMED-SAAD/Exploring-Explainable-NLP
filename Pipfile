@@ -21,6 +21,7 @@ datasets = "*"
 shap = "*"
 joblib = "*"
 flask = "*"
+lime = "*"
 
 [dev-packages]
 
