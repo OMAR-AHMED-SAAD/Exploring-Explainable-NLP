@@ -6,6 +6,11 @@
 /data/** 
 *.pkl
 
+# ignored files
+Model Training.ipynb
+run.ipynb
+model_longformer full_len.ipynb
+
 ### macOS ###
 *.DS_Store
 .AppleDouble
