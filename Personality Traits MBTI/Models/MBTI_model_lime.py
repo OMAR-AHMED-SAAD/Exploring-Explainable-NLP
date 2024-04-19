@@ -1,3 +1,7 @@
+import re
+from nltk.corpus import stopwords
+from nltk import word_tokenize
+import nltk
 import numpy as np
 import torch
 from transformers import AutoTokenizer, AutoModel
@@ -49,6 +53,7 @@ class ROBERTAClass(torch.nn.Module):
 
     def getProbabilities(self, input):
         input = input.tolist()
+        input = [clean_text(text) for text in input]
         input = tokenizer(input, max_length=512, truncation=True,
                           padding='longest', return_token_type_ids=True, return_tensors='pt')
         input = {key: tensor.to(device) for key, tensor in input.items()}
@@ -79,6 +84,7 @@ class ROBERTAClass(torch.nn.Module):
 
 # ----------------- SHAP EXPLANATION -----------------
 
+
 def explain_model(model, input, aspect):
     def get_aspect_explanation(input):
         IE, NS, TF, JP = model.getBinaryProbs(np.array(input))
@@ -93,12 +99,17 @@ def explain_model(model, input, aspect):
             return JP.numpy()
         else:
             raise ValueError("Invalid aspect provided.")
-
+    if isinstance(input, str):
+        input = clean_text_for_explain(input)
+    else:
+        input = [clean_text_for_explain(text) for text in input]
     class_names = get_class_names(aspect)
     aspect_explainer = LimeTextExplainer(class_names=class_names)
     return aspect_explainer.explain_instance(input, get_aspect_explanation, num_features=500)
 
 # ----------------- HELPER FUNCTIONS -----------------
+
+
 def get_class_names(aspect):
     if aspect == 'IE':
         return ["Introvert", "Extrovert"]
@@ -110,3 +121,35 @@ def get_class_names(aspect):
         return ["Judging", "Perceiving"]
     else:
         raise ValueError("Invalid aspect provided.")
+
+
+# Text Cleaning Functions
+nltk.download('stopwords')
+nltk.download('punkt')
+stop_words = set(stopwords.words('english'))
+
+
+def mystopwords(text):
+    return ' '.join([w for w in word_tokenize(text) if not w in stop_words])
+
+
+def clean_text(string):
+    clean = re.sub(r"(?:\@|http?\://|https?\://|www)\S+|\#\w+",
+                   "", string)  # remove mentions & hashtags
+    # remove url
+    clean = re.sub(
+        r'\w+:\/{2}[\d\w-]+(\.[\d\w-]+)*(?:(?:\/[^\s/]*))*', ' ', clean)
+    clean = re.sub('[\n]', ' ', clean)  # remove newline character
+    # remove non alphabetic characters
+    clean = re.sub('[^a-zA-Z]', ' ', clean.lower())
+    clean = re.sub(r'[,]', ' ', clean)
+    clean = mystopwords(clean)  # remove stopwords
+    clean = re.sub(r'\s+', ' ', clean)  # removve extra spaces
+    return clean
+
+
+def clean_text_for_explain(string):
+    clean = re.sub(r"(?:\@|http?\://|https?\://|www)\S+|\#\w+",
+                   "", string)  # remove mentions & hashtags
+    clean = re.sub(r'\s+', ' ', clean)  # removve extra spaces
+    return clean
