@@ -99,13 +99,14 @@ def explain_model(model, input, aspect):
             return JP.numpy()
         else:
             raise ValueError("Invalid aspect provided.")
-    if isinstance(input, str):
-        input = clean_text_for_explain(input)
-    else:
-        input = [clean_text_for_explain(text) for text in input]
     class_names = get_class_names(aspect)
     aspect_explainer = LimeTextExplainer(class_names=class_names)
-    return aspect_explainer.explain_instance(input, get_aspect_explanation, num_features=500)
+    if isinstance(input, str):
+        input = clean_text_for_explain(input)
+        return aspect_explainer.explain_instance(input, get_aspect_explanation, num_features=500)
+    else:
+        input = [clean_text_for_explain(text) for text in input]
+        return [aspect_explainer.explain_instance(text, get_aspect_explanation, num_features=500) for text in input]
 
 # ----------------- HELPER FUNCTIONS -----------------
 
