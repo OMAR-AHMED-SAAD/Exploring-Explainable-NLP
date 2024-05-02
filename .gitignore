@@ -5,6 +5,7 @@
 **/shap_values/**
 /data/** 
 *.pkl
+*.csv
 
 # ignored files
 Model Training.ipynb
