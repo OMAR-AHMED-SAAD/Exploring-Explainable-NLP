@@ -6,7 +6,8 @@
 /data/** 
 *.pkl
 *.csv
-
+Personality Traits MBTI/Trait Extraction/trait extraction explanations LIME.ipynb
+Personality Traits MBTI/Trait Extraction/trait extraction explanations SHAP.ipynb
 # ignored files
 Model Training.ipynb
 run.ipynb
