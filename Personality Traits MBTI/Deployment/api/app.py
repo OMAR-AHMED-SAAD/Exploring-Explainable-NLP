@@ -8,11 +8,11 @@ def hello_world():
     return "Hello, World!"
 
 @app.route("/explain")
-def explain():
+def explain_fn():
     return explain("I am a very shy person and I prefer to be alone.", "IE")
 
 @app.route("/predict")
-def predict():
+def predict_fn():
     return predict("I am a very shy person and I prefer to be alone.")
 
 @app.route('/plot')
