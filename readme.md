@@ -1,7 +1,3 @@
-Here's a sample README for your Bachelor project repository:
-
----
-
 # Exploring Explainable NLP
 
 This repository contains the code and resources for my Bachelor project, **Exploring Explainable NLP**. The focus of this project is to use explainability methods such as SHAP and LIME, combined with personality traits, to explain model predictions for determining whether someone has entrepreneurial traits.
